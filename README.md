@@ -99,7 +99,7 @@ O projeto continua em evolução! As próximas atualizações planejadas incluem
   - **Pilha (Stack):** Histórico de ações de combate para mecânicas de *undo* / estado de feitiços.
   - **Métodos de Ordenação (QuickSort / MergeSort):** Ordenação dinâmica de inimigos com base em atributos (como velocidade ou vida restante).
 - [ ] Expansão da Narrativa:
-  - **Capítulo 2:** Aprofundamento no mistério das runas e na origem do cajado.
+  - **Capítulo 2:** Aprofundamento no mistério do protagonista e na origem do cajado.
   - **Capítulo 3:** O confronto final nas profundezas da caverna e novos desfechos.
 - [ ] Refatoração do código-fonte para Inglês (*Clean Code* & nomenclatura padrão)
 - [ ] Adição de novos tipos de inimigos, habilidades mágicas e chefões (*Bosses*)
