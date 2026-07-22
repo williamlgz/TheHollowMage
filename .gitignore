@@ -1,0 +1,19 @@
+# Arquivos de Build
+build/
+bin/
+obj/
+
+# Arquivos gerados por IDEs e editores
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosv
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Arquivos executáveis gerados
+*.exe
+*.out
+*.app
