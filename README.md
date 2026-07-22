@@ -11,7 +11,7 @@ O projeto nasceu originalmente como um trabalho acadêmico para a disciplina de 
 - Estruturas homogêneas (Vetores e Matrizes)
 - Modularização com funções
 
-Com a evolução dos estudos e para a publicação no GitHub, o projeto foi adaptado para **C++**, adocando conceitos da **Programação Orientada a Objetos (POO)** e a divisão modular entre arquivos de cabeçalho (`.hpp`) e implementação (`.cpp`).
+Com a evolução dos estudos e para a publicação no GitHub, o projeto foi adaptado para **C++**, adotando conceitos da **Programação Orientada a Objetos (POO)** e a divisão modular entre arquivos de cabeçalho (`.hpp`) e implementação (`.cpp`).
 
 ---
 
